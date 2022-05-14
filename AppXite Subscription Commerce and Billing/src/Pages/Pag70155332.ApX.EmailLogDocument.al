@@ -13,22 +13,22 @@ page 70155332 "ApX Email Log Document"
         {
             group("Email Log")
             {
-                field("No."; "No.")
+                field("No."; Rec."No.")
                 {
                     Caption = 'No.';
                     ApplicationArea = All;
                 }
-                field("Doc Type"; "Doc Type")
+                field("Doc Type"; Rec."Doc Type")
                 {
                     Caption = 'Doc Type';
                     ApplicationArea = All;
                 }
-                field("Process Start Date Time"; "Process Start Date Time")
+                field("Process Start Date Time"; Rec."Process Start Date Time")
                 {
                     Caption = 'Process Start Date Time';
                     ApplicationArea = All;
                 }
-                field("Process End Date Time"; "Process End Date Time")
+                field("Process End Date Time"; Rec."Process End Date Time")
                 {
                     Caption = 'Process End Date Time';
                     ApplicationArea = All;

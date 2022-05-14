@@ -6,38 +6,46 @@ page 70155337 "ApX ReThink Errors"
     InsertAllowed = false;
     ModifyAllowed = false;
     DeleteAllowed = false;
-    
+
     layout
     {
         area(content)
         {
             repeater(Group)
             {
-                field(invoicesId;invoicesId){
+                field(invoicesId; Rec.invoicesId)
+                {
                     ApplicationArea = All;
                 }
-                field("Invoice Number"; invoicesNumber) { 
+                field("Invoice Number"; Rec.invoicesNumber)
+                {
                     ApplicationArea = All;
                 }
-                field("Row Id"; rowId) {
-                    ApplicationArea = All;
-                 }
-                field("Data Type"; "Data Type") { 
+                field("Row Id"; Rec.rowId)
+                {
                     ApplicationArea = All;
                 }
-                field("Error Type"; "Error Type") {
-                    ApplicationArea = All;
-                 }
-                field(Comment; Comment) {
+                field("Data Type"; Rec."Data Type")
+                {
                     ApplicationArea = All;
                 }
-                field("Time Created"; "Time Created") {
+                field("Error Type"; Rec."Error Type")
+                {
                     ApplicationArea = All;
-                 }
-                field(Resolved; Resolved) { 
+                }
+                field(Comment; Rec.Comment)
+                {
+                    ApplicationArea = All;
+                }
+                field("Time Created"; Rec."Time Created")
+                {
+                    ApplicationArea = All;
+                }
+                field(Resolved; Rec.Resolved)
+                {
                     ApplicationArea = All;
                 }
             }
-        }       
+        }
     }
 }
