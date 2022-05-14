@@ -1,4 +1,4 @@
-permissionset 70155324 APPXITE
+permissionset 70155324 APXITE
 {
     Assignable = true;
     Caption = 'AppXite Permissions', MaxLength = 30;
