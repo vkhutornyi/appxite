@@ -1,0 +1,43 @@
+﻿{
+    "id":  "c00d3fca-de79-4409-a9b1-e50f41a98eac",
+    "name":  "AppXite Subscription Commerce and Billing",
+    "publisher":  "AppXite",
+    "version":  "1.0.5.58",
+    "brief":  "Everything as a service billing powered by AppXite Commerce Platform \u0026 Dynamics 365 Business Central",
+    "description":  "Everything as a service billing powered by AppXite Commerce Platform \u0026 Dynamics 365 Business Central",
+    "platform":  "19.0.0.0",
+    "application":  "19.0.0.0",
+    "runtime":  "8.0",
+    "logo":  "logo/Logo.png",
+    "url":  "https://www.appxite.com",
+    "EULA":  "https://www.appxite.com/hubfs/Stanislavs%20docs/AppXite%20Subscription%20Commerce%20and%20Billing%20TOU.pdf",
+    "privacyStatement":  "https://www.csp2go.com/appxite-privacy-policy?hs_preview=NTqWYpeE-5719934087",
+    "help":  "https://www.appxite.com/contact",
+    "target":  "Extension",
+    "screenshots":  [
+
+                    ],
+    "dependencies":  [
+
+                     ],
+    "idRanges":  [
+                     {
+                         "from":  70155324,
+                         "to":  70156323
+                     }
+                 ],
+    "features":  [
+                     "TranslationFile",
+                     "GenerateCaptions"
+                 ],
+    "resourceExposurePolicy":  {
+
+                               },
+    "contextSensitiveHelpUrl":  "https://www.appxite.com/help/",
+    "internalsVisibleTo":  [
+
+                           ],
+    "keyVaultUrls":  [
+
+                     ]
+}

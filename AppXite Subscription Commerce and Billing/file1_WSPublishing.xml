@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ExportedData>
+    <TenantWebServiceCollection>
+        <TenantWebService>
+            <ObjectType>Page</ObjectType>
+            <ServiceName>nav_customers</ServiceName>
+            <ObjectID>70155324</ObjectID>
+            <Published>true</Published>
+        </TenantWebService>
+        <TenantWebService>
+            <ObjectType>Page</ObjectType>
+            <ServiceName>nav_vendors</ServiceName>
+            <ObjectID>70155325</ObjectID>
+            <Published>true</Published>
+        </TenantWebService>
+        <TenantWebService>
+            <ObjectType>Page</ObjectType>
+            <ServiceName>nav_resources</ServiceName>
+            <ObjectID>70155326</ObjectID>
+            <Published>true</Published>
+        </TenantWebService>
+        <TenantWebService>
+            <ObjectType>Page</ObjectType>
+            <ServiceName>nav_billing_headers</ServiceName>
+            <ObjectID>70155327</ObjectID>
+            <Published>true</Published>
+        </TenantWebService>
+        <TenantWebService>
+            <ObjectType>Page</ObjectType>
+            <ServiceName>nav_billing_lines</ServiceName>
+            <ObjectID>70155328</ObjectID>
+            <Published>true</Published>
+        </TenantWebService>
+        <TenantWebService>
+            <ObjectType>Page</ObjectType>
+            <ServiceName>nav_transactions</ServiceName>
+            <ObjectID>70155329</ObjectID>
+            <Published>true</Published>
+        </TenantWebService>
+        <TenantWebService>
+            <ObjectType>Page</ObjectType>
+            <ServiceName>nav_sales_doc_pdf_files</ServiceName>
+            <ObjectID>70155333</ObjectID>
+            <Published>true</Published>
+        </TenantWebService>
+    </TenantWebServiceCollection>
+</ExportedData>
