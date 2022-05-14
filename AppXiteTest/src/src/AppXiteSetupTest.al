@@ -2,16 +2,6 @@ codeunit 70155345 "AppXite Setup Test"
 {
     Subtype = Test;
 
-    // [Test]
-    // procedure TestSetupSMTP();
-
-    // var
-    //     SMTPMailSetup: Record "SMTP Mail Setup";
-    // begin
-    //     // IF NOT SMTPMailSetup.Get THEN
-    //     //     Error('SMTPMailSetup must have one record.');
-    // end;
-
     [Test]
     procedure TestCustomerCardPageHasAppXiteFields();
     var

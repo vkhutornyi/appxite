@@ -5,15 +5,14 @@
     "version":  "1.0.5.58",
     "brief":  "Everything as a service billing powered by AppXite Commerce Platform \u0026 Dynamics 365 Business Central",
     "description":  "Everything as a service billing powered by AppXite Commerce Platform \u0026 Dynamics 365 Business Central",
-    "platform":  "19.0.0.0",
-    "application":  "19.0.0.0",
-    "runtime":  "8.0",
+    "platform":  "20.0.0.0",
+    "application":  "20.0.0.0",
+    "runtime":  "9.0",
     "logo":  "logo/Logo.png",
     "url":  "https://www.appxite.com",
     "EULA":  "https://www.appxite.com/hubfs/Stanislavs%20docs/AppXite%20Subscription%20Commerce%20and%20Billing%20TOU.pdf",
     "privacyStatement":  "https://www.csp2go.com/appxite-privacy-policy?hs_preview=NTqWYpeE-5719934087",
     "help":  "https://www.appxite.com/contact",
-    "target":  "Extension",
     "screenshots":  [
 
                     ],

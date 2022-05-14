@@ -1,10 +1,10 @@
 {
     "country":  "us",
     "AppSourceCopMandatoryAffixes":  [
-        "<affix>"
+        "APX"
     ],
-    "appFolders":  [
+    "appFolders":  [ "AppXite Subscription Commerce and Billing"
     ],
-    "testFolders":  [
+    "testFolders":  [ "AppXiteTest"
     ]
 }
