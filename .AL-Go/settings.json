@@ -1,14 +1,17 @@
-{
+﻿{
     "country":  "us",
-    "LicenseFileUrlSecretName": "APXLicenseFile",
-    "KeyVaultCertificateUrlSecretName": "KeyVaultCertificateUrl",
-    "KeyVaultCertificatePasswordSecretName": "KeyVaultCertificatePassword",
-    "KeyVaultClientIdSecretName": "KeyVaultClientId",
+    "LicenseFileUrlSecretName":  "APXLicenseFile",
+    "KeyVaultCertificateUrlSecretName":  "KeyVaultCertificateUrl",
+    "KeyVaultCertificatePasswordSecretName":  "KeyVaultCertificatePassword",
+    "KeyVaultClientIdSecretName":  "KeyVaultClientId",
     "AppSourceCopMandatoryAffixes":  [
-        "APX"
-    ],
-    "appFolders":  [ "AppXite Subscription Commerce and Billing"
-    ],
-    "testFolders":  [ "AppXiteTest"
-    ]
+                                         "APX"
+                                     ],
+    "appFolders":  [
+                       "AppXite Subscription Commerce and Billing"
+                   ],
+    "testFolders":  [
+                        "AppXiteTest"
+                    ],
+    "RepoVersion":  "1.1"
 }
