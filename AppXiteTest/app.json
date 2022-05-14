@@ -1,0 +1,50 @@
+﻿{
+    "id":  "d55a36f1-f2e3-4dc0-b11f-d77301efd311",
+    "name":  "AppXiteTest",
+    "publisher":  "AppXite",
+    "version":  "1.0.0.3",
+    "brief":  "",
+    "description":  "",
+    "platform":  "19.0.0.0",
+    "application":  "19.0.0.0",
+    "runtime":  "7.0",
+    "logo":  "",
+    "url":  "",
+    "EULA":  "",
+    "privacyStatement":  "",
+    "help":  "",
+    "target":  "Extension",
+    "screenshots":  [
+
+                    ],
+    "dependencies":  [
+                         {
+                             "id":  "c00d3fca-de79-4409-a9b1-e50f41a98eac",
+                             "publisher":  "AppXite",
+                             "name":  "AppXite Subscription Commerce and Billing",
+                             "version":  "1.0.5.0"
+                         },
+                         {
+                             "id":  "dd0be2ea-f733-4d65-bb34-a28f4624fb14",
+                             "publisher":  "Microsoft",
+                             "name":  "Library Assert",
+                             "version":  "19.0.0.0"
+                         }
+                     ],
+    "idRanges":  [
+                     {
+                         "from":  70155324,
+                         "to":  70156323
+                     }
+                 ],
+    "features":  [
+
+                 ],
+    "showMyCode":  true,
+    "internalsVisibleTo":  [
+
+                           ],
+    "keyVaultUrls":  [
+
+                     ]
+}

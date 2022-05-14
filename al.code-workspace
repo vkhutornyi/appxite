@@ -5,6 +5,9 @@
                     },
                     {
                         "path":  "AppXite Subscription Commerce and Billing"
+                    },
+                    {
+                        "path":  "AppXiteTest"
                     }
                 ],
     "settings":  {
