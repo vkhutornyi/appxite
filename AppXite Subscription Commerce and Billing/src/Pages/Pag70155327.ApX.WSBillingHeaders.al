@@ -12,75 +12,75 @@ page 70155327 "ApX WS Billing Headers"
         {
             group(General)
             {
-                field(invoicesId; invoicesId)
+                field(invoicesId; Rec.invoicesId)
                 {
                     applicationArea = All;
                 }
-                field(invoicesNumber; invoicesNumber)
+                field(invoicesNumber; Rec.invoicesNumber)
                 {
                     applicationArea = All;
                 }
-                field(invoiceProviderId; invoiceProviderId)
+                field(invoiceProviderId; Rec.invoiceProviderId)
                 {
                     applicationArea = All;
                 }
-                field(invoiceProvider; invoiceProvider)
+                field(invoiceProvider; Rec.invoiceProvider)
                 {
                     applicationArea = All;
                 }
-                field(invoiceReceiverId; invoiceReceiverId)
+                field(invoiceReceiverId; Rec.invoiceReceiverId)
                 {
                     applicationArea = All;
                 }
-                field(invoiceReceiver; invoiceReceiver)
+                field(invoiceReceiver; Rec.invoiceReceiver)
                 {
                     applicationArea = All;
                 }
-                field("receiver country"; "receiver country")
+                field("receiver country"; Rec."receiver country")
                 {
                     applicationArea = All;
                 }
-                field("receiver VAT number"; "receiver VAT number")
+                field("receiver VAT number"; Rec."receiver VAT number")
                 {
                     applicationArea = All;
                 }
-                field("billing address"; "billing address")
+                field("billing address"; Rec."billing address")
                 {
                     applicationArea = All;
                 }
-                field("account manager"; "account manager")
+                field("account manager"; Rec."account manager")
                 {
                     applicationArea = All;
                 }
-                field("account manager email"; "account manager email")
+                field("account manager email"; Rec."account manager email")
                 {
                     applicationArea = All;
                 }
-                field(comments; comments)
+                field(comments; Rec.comments)
                 {
                     applicationArea = All;
                 }
-                field(invoicesDate; invoicesDate)
+                field(invoicesDate; Rec.invoicesDate)
                 {
                     applicationArea = All;
                 }
-                field(invoiceCurrency; invoiceCurrency)
+                field(invoiceCurrency; Rec.invoiceCurrency)
                 {
                     applicationArea = All;
                 }
-                field(totalPriceCheckSum; totalPriceCheckSum)
+                field(totalPriceCheckSum; Rec.totalPriceCheckSum)
                 {
                     applicationArea = All;
                 }
-                field(rateToEuro; rateToEuro)
+                field(rateToEuro; Rec.rateToEuro)
                 {
                     applicationArea = All;
                 }
-                field("billing period start"; "billing period start")
+                field("billing period start"; Rec."billing period start")
                 {
                     applicationArea = All;
                 }
-                field("billing period end"; "billing period end")
+                field("billing period end"; Rec."billing period end")
                 {
                     applicationArea = All;
                 }
@@ -89,6 +89,6 @@ page 70155327 "ApX WS Billing Headers"
     }
     trigger OnNewRecord(BelowxRec: Boolean);
     begin
-        Validate("Status Time Stamp", CurrentDateTime);
+        Rec.Validate("Status Time Stamp", CurrentDateTime);
     end;
 }

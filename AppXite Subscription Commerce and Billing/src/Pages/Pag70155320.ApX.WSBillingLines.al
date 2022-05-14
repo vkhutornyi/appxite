@@ -12,131 +12,131 @@ page 70155328 "ApX WS Billing Lines"
         {
             group(General)
             {
-                field(rowId; rowId)
+                field(rowId; Rec.rowId)
                 {
                     applicationArea = All;
                 }
-                field(invoicesId; invoicesId)
+                field(invoicesId; Rec.invoicesId)
                 {
                     applicationArea = All;
                 }
-                field(invoicesNumber; invoicesNumber)
+                field(invoicesNumber; Rec.invoicesNumber)
                 {
                     applicationArea = All;
                 }
-                field(subscriptionId; subscriptionId)
+                field(subscriptionId; Rec.subscriptionId)
                 {
                     applicationArea = All;
                 }
-                field(subscriptionName; subscriptionName)
+                field(subscriptionName; Rec.subscriptionName)
                 {
                     applicationArea = All;
                 }
-                field(subscriptionStartDate; subscriptionStartDate)
+                field(subscriptionStartDate; Rec.subscriptionStartDate)
                 {
                     applicationArea = All;
                 }
-                field(subscriptionEndDate; subscriptionEndDate)
+                field(subscriptionEndDate; Rec.subscriptionEndDate)
                 {
                     applicationArea = All;
                 }
-                field("vendor Subscription Id"; "vendor Subscription Id txt")
+                field("vendor Subscription Id"; Rec."vendor Subscription Id txt")
                 {
                     applicationArea = All;
                 }
-                field("charge start date"; "charge start date")
+                field("charge start date"; Rec."charge start date")
                 {
                     applicationArea = All;
                 }
-                field("charge end date"; "charge end date")
+                field("charge end date"; Rec."charge end date")
                 {
                     applicationArea = All;
                 }
-                field(offerId; offerId)
+                field(offerId; Rec.offerId)
                 {
                     applicationArea = All;
                 }
-                field(offerName; offerName)
+                field(offerName; Rec.offerName)
                 {
                     applicationArea = All;
                 }
-                field(ShortOfferName; ShortOfferName)
+                field(ShortOfferName; Rec.ShortOfferName)
                 {
                     applicationArea = All;
                 }
-                field("vendor Offer Id"; "vendor Offer Id")
+                field("vendor Offer Id"; Rec."vendor Offer Id")
                 {
                     applicationArea = All;
                 }
-                field(invoiceDataContractType; invoiceDataContractType)
+                field(invoiceDataContractType; Rec.invoiceDataContractType)
                 {
                     applicationArea = All;
                 }
-                field(invoiceChargeTypes; invoiceChargeTypes)
+                field(invoiceChargeTypes; Rec.invoiceChargeTypes)
                 {
                     applicationArea = All;
                 }
-                field(quantity; quantity)
+                field(quantity; Rec.quantity)
                 {
                     applicationArea = All;
                 }
-                field(unitPrice; unitPrice)
+                field(unitPrice; Rec.unitPrice)
                 {
                     applicationArea = All;
                 }
-                field(totalPrice; totalPrice)
+                field(totalPrice; Rec.totalPrice)
                 {
                     applicationArea = All;
                 }
-                field(resellerPrice; resellerPrice)
+                field(resellerPrice; Rec.resellerPrice)
                 {
                     applicationArea = All;
                 }
-                field(retailPrice; retailPrice)
+                field(retailPrice; Rec.retailPrice)
                 {
                     applicationArea = All;
                 }
-                field("retail Price Source"; "retail Price Source")
+                field("retail Price Source"; Rec."retail Price Source")
                 {
                     applicationArea = All;
                 }
-                field("retail Price Markup"; "retail Price Markup")
+                field("retail Price Markup"; Rec."retail Price Markup")
                 {
                     applicationArea = All;
                 }
-                field("customer Markup"; "customer Markup")
+                field("customer Markup"; Rec."customer Markup")
                 {
                     applicationArea = All;
                 }
-                field("price Markup Start Date"; "price Markup Start Date")
+                field("price Markup Start Date"; Rec."price Markup Start Date")
                 {
                     applicationArea = All;
                 }
-                field(vendorOrgId; vendorOrgId)
+                field(vendorOrgId; Rec.vendorOrgId)
                 {
                     applicationArea = All;
                 }
-                field(vendorOrg; vendorOrg)
+                field(vendorOrg; Rec.vendorOrg)
                 {
                     applicationArea = All;
                 }
-                field(resellerOrgId; resellerOrgId)
+                field(resellerOrgId; Rec.resellerOrgId)
                 {
                     applicationArea = All;
                 }
-                field(resellerOrg; resellerOrg)
+                field(resellerOrg; Rec.resellerOrg)
                 {
                     applicationArea = All;
                 }
-                field(customerOrgId; customerOrgId)
+                field(customerOrgId; Rec.customerOrgId)
                 {
                     applicationArea = All;
                 }
-                field(customerOrg; customerOrg)
+                field(customerOrg; Rec.customerOrg)
                 {
                     applicationArea = All;
                 }
-                field(endCustomerOrgStatus; endCustomerOrgStatus)
+                field(endCustomerOrgStatus; Rec.endCustomerOrgStatus)
                 {
                     applicationArea = All;
                 }
