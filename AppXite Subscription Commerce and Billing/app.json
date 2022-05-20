@@ -5,7 +5,7 @@
     "version":  "1.7.0.0",
     "brief":  "Everything as a service billing powered by AppXite Commerce Platform \u0026 Dynamics 365 Business Central",
     "description":  "Everything as a service billing powered by AppXite Commerce Platform \u0026 Dynamics 365 Business Central",
-    "platform":  "20.0.0.0",
+    "platform":  "1.0.0.0",
     "application":  "20.0.0.0",
     "runtime":  "9.0",
     "logo":  "logo/Logo.png",
