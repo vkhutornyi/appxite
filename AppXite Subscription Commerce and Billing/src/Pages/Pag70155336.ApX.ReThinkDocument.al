@@ -13,87 +13,87 @@ page 70155336 "ApX ReThink Document"
         {
             group("Rethink Document Header")
             {
-                field(invoicesId; invoicesId)
+                field(invoicesId; Rec.invoicesId)
                 {
                     ApplicationArea = All;
                 }
-                field(invoicesNumber; invoicesNumber)
+                field(invoicesNumber; Rec.invoicesNumber)
                 {
                     ApplicationArea = All;
                 }
-                field(invoiceProviderId; invoiceProviderId)
+                field(invoiceProviderId; Rec.invoiceProviderId)
                 {
                     ApplicationArea = All;
                 }
-                field(invoiceProvider; invoiceProvider)
+                field(invoiceProvider; Rec.invoiceProvider)
                 {
                     ApplicationArea = All;
                 }
-                field(invoiceReceiverId; invoiceReceiverId)
+                field(invoiceReceiverId; Rec.invoiceReceiverId)
                 {
                     ApplicationArea = All;
                 }
-                field(invoiceReceiver; invoiceReceiver)
+                field(invoiceReceiver; Rec.invoiceReceiver)
                 {
                     ApplicationArea = All;
                 }
-                field("receiver country"; "receiver country")
+                field("receiver country"; Rec."receiver country")
                 {
                     ApplicationArea = All;
                 }
-                field("receiver VAT number"; "receiver VAT number")
+                field("receiver VAT number"; Rec."receiver VAT number")
                 {
                     ApplicationArea = All;
                 }
-                field("billing address"; "billing address")
+                field("billing address"; Rec."billing address")
                 {
                     ApplicationArea = All;
                 }
-                field("account manager"; "account manager")
+                field("account manager"; Rec."account manager")
                 {
                     ApplicationArea = All;
                 }
-                field("account manager email"; "account manager email")
+                field("account manager email"; Rec."account manager email")
                 {
                     ApplicationArea = All;
                 }
-                field("comments"; comments)
+                field("comments"; Rec.comments)
                 {
                     ApplicationArea = All;
                 }
-                field(invoicesDate; invoicesDate)
+                field(invoicesDate; Rec.invoicesDate)
                 {
                     ApplicationArea = All;
                 }
-                field("billing period start"; "billing period start")
+                field("billing period start"; Rec."billing period start")
                 {
                     ApplicationArea = All;
                 }
-                field("billing period end"; "billing period end")
+                field("billing period end"; Rec."billing period end")
                 {
                     ApplicationArea = All;
                 }
-                field(invoiceCurrency; invoiceCurrency)
+                field(invoiceCurrency; Rec.invoiceCurrency)
                 {
                     ApplicationArea = All;
                 }
-                field(totalPriceCheckSum; totalPriceCheckSum)
+                field(totalPriceCheckSum; Rec.totalPriceCheckSum)
                 {
                     ApplicationArea = All;
                 }
-                field(rateToEuro; rateToEuro)
+                field(rateToEuro; Rec.rateToEuro)
                 {
                     ApplicationArea = All;
                 }
-                field(Status; Status)
+                field(Status; Rec.Status)
                 {
                     ApplicationArea = All;
                 }
-                field("NAV Doc No"; "NAV Doc No")
+                field("NAV Doc No"; Rec."NAV Doc No")
                 {
                     ApplicationArea = All;
                 }
-                field("Status Time Stamp"; "Status Time Stamp")
+                field("Status Time Stamp"; Rec."Status Time Stamp")
                 {
                     ApplicationArea = All;
                 }

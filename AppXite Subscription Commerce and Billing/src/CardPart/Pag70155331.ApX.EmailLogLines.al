@@ -13,23 +13,23 @@ page 70155331 "ApX Email Log Lines"
         {
             repeater(Group)
             {
-                field("No."; "No.")
+                field("No."; Rec."No.")
                 {
                     ApplicationArea = All;
                 }
-                field("Email Log Header No."; "Email Log Header No.")
+                field("Email Log Header No."; Rec."Email Log Header No.")
                 {
                     ApplicationArea = All;
                 }
-                field("Doc Type"; "Doc Type")
+                field("Doc Type"; Rec."Doc Type")
                 {
                     ApplicationArea = All;
                 }
-                field("Document No."; "Document No.")
+                field("Document No."; Rec."Document No.")
                 {
                     ApplicationArea = All;
                 }
-                field("Email Sent"; "Email Sent")
+                field("Email Sent"; Rec."Email Sent")
                 {
                     ApplicationArea = All;
                 }
