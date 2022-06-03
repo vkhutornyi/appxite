@@ -2,17 +2,20 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "name": "Microsoft cloud sandbox",
+            "name": "Your own server",
             "request": "launch",
             "type": "al",
             "environmentType": "Sandbox",
-            "environmentName": "sandbox",
+            "server": "http://bcserver",
+            "serverInstance": "BC",
+            "authentication": "UserPassword",
             "startupObjectId": 22,
             "startupObjectType": "Page",
             "breakOnError": true,
             "launchBrowser": true,
             "enableLongRunningSqlStatements": true,
-            "enableSqlInformationDebugger": true
+            "enableSqlInformationDebugger": true,
+            "tenant": "default"
         }
     ]
 }
