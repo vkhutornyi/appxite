@@ -1,6 +1,5 @@
 ﻿{
     "country":  "us",
-    "LicenseFileUrlSecretName":  "APXLicenseFile",
     "KeyVaultClientIdSecretName":  "KeyVaultClientId",
     "AppSourceCopMandatoryAffixes":  [
                                          "APX"
