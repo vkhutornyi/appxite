@@ -1,2 +1,0 @@
-- name: GitHub cherry pick action
-  uses: carloscastrojumo/github-cherry-pick-action@v1.0.2
