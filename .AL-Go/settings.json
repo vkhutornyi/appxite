@@ -1,6 +1,6 @@
 ﻿{
     "country":  "us",
-     "additionalCountries": ["nl", "dk", "de"]
+    "additionalCountries": ["nl", "dk", "de"],
     "KeyVaultClientIdSecretName":  "KeyVaultClientId",
     "LicenseFileUrlSecretName": "APXLicenseFile",
     "AppSourceCopMandatoryAffixes":  [
