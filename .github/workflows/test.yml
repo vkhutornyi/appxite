@@ -1,0 +1,7 @@
+name: AutoTest workflow
+on:
+  schedule:
+    - cron: '55 * * * *'
+jobs:  
+  call-workflow-2-in-local-repo:
+    uses: ./.github/workflows/NextMinor.yaml
