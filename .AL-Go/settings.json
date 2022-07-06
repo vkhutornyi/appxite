@@ -1,16 +1,21 @@
-﻿{
-    "country":  "us",
-    "additionalCountries": ["nl", "dk", "de"],
-    "KeyVaultClientIdSecretName":  "KeyVaultClientId",
-    "LicenseFileUrlSecretName": "APXLicenseFile",
-    "AppSourceCopMandatoryAffixes":  [
-                                         "APX"
-                                     ],
-    "appFolders":  [
-                       "AppXite Subscription Commerce and Billing"
-                   ],
-    "testFolders":  [
-                        "AppXiteTest"
-                    ],
-    "RepoVersion":  "1.7"
+{
+	"country": "us",
+	"additionalCountries": [
+		"nl",
+		"dk",
+		"de"
+	],
+	"KeyVaultClientIdSecretName": "KeyVaultClientId",
+	"LicenseFileUrlSecretName": "APXLicenseFile",
+	"AppSourceCopMandatoryAffixes": [
+		"APX"
+	],
+	"appFolders": [
+		"AppXite Subscription Commerce and Billing"
+	],
+	"testFolders": [
+		"AppXiteTest"
+	],
+	"nextMajorSchedule": "30 * * * *",
+	"RepoVersion": "1.7"
 }
